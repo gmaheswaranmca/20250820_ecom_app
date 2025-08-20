@@ -1,6 +1,6 @@
 # Project
 Working on customer feature
-Yes I started to work
+Yes I have to start to work
 
 # Teammate
 Working by teammate on customer branch
